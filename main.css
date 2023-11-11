@@ -249,9 +249,9 @@ body {
 .image-two {
   position: absolute;
   left: 60px;
-  width: 141px;
+  width: 113px;
   height: 250px;
-  background-image: url(lib/casamento.jpeg);
+  background-image: url(lib/niver.jpeg);
   background-size: contain;
   background-repeat: no-repeat;
   border: solid 2px lightgrey;
@@ -261,10 +261,22 @@ body {
   width: 100px;
   height: 30px;
   opacity: 0.7;
-  left: 97px;
+  left: 43px;
   top: 10px;
   position: absolute;
   content: "";
   background: DarkKhaki;
   transform: skew(-35deg, 35deg);
+}
+
+.image-three {
+  position: absolute;
+  left: 111px;
+  width: 113px;
+  height: 250px;
+  background-image: url(lib/amores.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: solid 2px lightgrey;
+  transform: skew(-4deg, 4deg);
 }
